@@ -6,7 +6,6 @@ Not a horror game, but a mystery game.
 ## Storytelling
 * Reading computer logs
 * Environmental hints
-* 
 
 # First Game Moments
 
@@ -21,3 +20,4 @@ Not a horror game, but a mystery game.
 
 * [S-Kape 2](http://www.kongregate.com/games/AngryCow/s-kape-2)
 * (Parts of) [Jazzpunk](https://en.wikipedia.org/wiki/Jazzpunk)
+* Scenery: [Star Wars: Knights of the Old Republic 2](https://en.wikipedia.org/wiki/Star_Wars:_Knights_of_the_Old_Republic), the space station in the beggining.
